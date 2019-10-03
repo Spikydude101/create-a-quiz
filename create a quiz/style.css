@@ -1,0 +1,38 @@
+html {
+    background-color:blue;
+
+}
+
+body {
+    margin:0 auto;
+    width:800px;
+    background-color:yellowgreen;
+    border:5px dashed orangered;
+    border-radius:10px;
+    text-align:center;
+    color:darkblue;
+    font-size:16px;
+    font-family: 'Mansalva', cursive;
+}
+
+img {
+    width:300px;
+    border:6px dashed paleturquoise;
+}
+ hr{
+    background-color: rgb(43, 183, 226);
+    height: 10px;
+ }
+
+
+ #wits   {
+     padding:10px 25px;
+     background-color:rgb(43,183,226);
+     border:3px dashed orangered;
+
+
+
+ }
+
+
+
